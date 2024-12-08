@@ -1,1 +1,42 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+.nav-link {
+    text-decoration: none;
+}
+p {
+    font-size: 20px;
+}
 
+.info {
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+   margin: 30px;
+}
+.a {
+    width: 100px;
+    height: 100px;
+}
+a {
+    border-radius:15px ;
+    padding: 15px;
+    background-color: blanchedalmond;
+    text-decoration: none;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    margin: 30px;
+}
+h1 {
+    text-align: center;
+}
+article {
+    width: 400px;
+    text-align: center;
+}
